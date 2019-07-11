@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 #datasets
-Light_GBM/Porto_Seguro’s_Safe_Driver_Prediction/data/*
+./Light_GBM/Porto_Seguro’s_Safe_Driver_Prediction/data/*
 # C extensions
 *.so
 
