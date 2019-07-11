@@ -19,4 +19,9 @@ class DecisionTree():
         self.val = np.mean(y[idxs])
         self.score = float('inf')
         self.find_varsplit()
+    
+    def find_varsplit(self):
+        for i in range(self.c) : self.find_better_split(i)
+        
+    def find_better_split(self, var_idx):
         
