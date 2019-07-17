@@ -5,6 +5,7 @@ __pycache__/
 
 #datasets
 ./Light_GBM/Porto_Seguro’s_Safe_Driver_Prediction/data/*
+./Light_GBM/An_Overview_of_Light_GBM/data/*
 # C extensions
 *.so
 
